@@ -1,0 +1,6 @@
+---
+data_path: "./real_dataset/ipums_bplg.txt"
+s_list: [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+epsilon_list: [0.3, 0.4, 0.5]
+delta: 1.0e-6
+nround: 100

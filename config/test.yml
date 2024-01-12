@@ -1,0 +1,7 @@
+---
+data_path: "./real_dataset/test3.txt"
+#epsilon_list: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+epsilon_list: [1]
+epsilon_l: 10
+delta: 1.0e-3
+nround: 1

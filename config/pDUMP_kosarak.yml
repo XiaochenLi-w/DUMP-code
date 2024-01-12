@@ -1,0 +1,6 @@
+---
+data_path: "./real_dataset/kosarak.txt"
+epsilon_list: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+epsilon_l_list: [5, 7, 9]
+delta: 1.0e-6
+nround: 100
